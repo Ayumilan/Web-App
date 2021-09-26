@@ -1,7 +1,8 @@
 # Web-menu-using-Python-CGI-with-different-services
 
-In this Project using python. I create a menu for prforming some srevices like:
+In this Project using python. 
 
+I create a menu for performing some services like:
 * Basic Linux commands in Rhel 8
 * DOCKER services
 * Logical Volume Management in Rhel 8
